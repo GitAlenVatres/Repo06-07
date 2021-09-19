@@ -1,0 +1,15 @@
+.column {
+  float: left;
+  width: 33.33%;
+}
+<body>
+
+<div class="Cards Gallery">
+  <a target="_blank" href="image1.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg","image7.jpg","image8.jpg","image9.jpg">
+    <img src="image1.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg","image7.jpg","image8.jpg","image9.jpg" alt="Lorem ipsum" width="800" height="600">
+  </a>
+  <div class="desc">lorem ipsum ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud excercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</div>
+</div>
+
+
+</body>}
